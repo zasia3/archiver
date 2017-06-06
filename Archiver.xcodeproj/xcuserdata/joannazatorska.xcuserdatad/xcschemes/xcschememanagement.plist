@@ -29,6 +29,11 @@
 			<key>orderHint</key>
 			<integer>4</integer>
 		</dict>
+		<key>RxAlamofire.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>10</integer>
+		</dict>
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
@@ -53,6 +58,11 @@
 			<true/>
 		</dict>
 		<key>E71A6BB41EE6ED9D009FD19D</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>E71A6BE31EE6F230009FD19D</key>
 		<dict>
 			<key>primary</key>
 			<true/>
